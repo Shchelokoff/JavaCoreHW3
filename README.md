@@ -1,5 +1,5 @@
 ## Информация о проекте
-Данный [проект]([https://github.com/](https://github.com/Shchelokoff/JavaCoreHW3/tree/main/src/ru/mvc/javacorehw3) был создан на основание MVC (Model-View-Controller) - это шаблон проектирования, 
+Данный [проект](https://github.com/Shchelokoff/JavaCoreHW3/tree/main/src/ru/mvc/javacorehw3) был создан на основание MVC (Model-View-Controller) - это шаблон проектирования, 
 который используется для разделения слоев приложения на три компонента: модель (Model), 
 представление (View) и контроллер (Controller).
 
